@@ -1,0 +1,12 @@
+#q2
+print("Tabuada do 13")
+print ("13 x 1 = ", 13 * 1)
+print ("13 x 2 = ", 13 * 2)
+print ("13 x 3 = ", 13 * 3)
+print ("13 x 4 = ", 13 * 4)
+print ("13 x 5 = ", 13 * 5)
+print ("13 x 6 = ", 13 * 6)
+print ("13 x 7 = ", 13 * 7)
+print ("13 x 8 = ", 13 * 8)
+print ("13 x 9 = ", 13 * 9)
+print ("13 x 10 = ", 13 * 10)
